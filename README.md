@@ -12,6 +12,8 @@ the repository and add new features or even disable existing ones! For maximum s
 we recommend that you build and side-load the application yourself. This ensures that
 a rogue version published to the Play store won't steal all your passwords.
 
+Requires SDK26 (can probably be build with lower API levels too.)
+
 # Features
 - application is protected by fingerprint authentication.
 - securely store passwords encrypted within Realm.
