@@ -79,7 +79,8 @@ Installing the application yourself is the recommended way, as it removes the mi
 This will build the APK and install it onto your device.
 
 ##### Side-loading (APK file)
-Follow the instructions for building an unsigned APK and then copy the .apk to your device.
+Follow the instructions for building an unsigned APK and then copy the .apk to your device. Alternatively download
+an APK from the releases.
 
 1. Enable installation from untrusted sources
 2. open the file to install the APK
